@@ -152,7 +152,7 @@ overflow: hidden;
   font-size: 13px;
   line-height:1.5rem;
   overflow: hidden;
-  color: #FFDBB6;
+  color: #9bccd4;
   border-bottom: 1px solid #eee;
 }
 
@@ -169,3 +169,4 @@ a.link{
 a:visited {
   color: white;
 }
+
